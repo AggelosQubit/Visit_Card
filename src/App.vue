@@ -34,7 +34,10 @@ const links = [
 ];
 </script>
 
-<style scoped>
+<style >
+body {
+	margin: 0px;
+}
 .card-container {
 	min-height: 100vh;
 	background: linear-gradient(135deg, #041350, #ffffff, #e71010);
