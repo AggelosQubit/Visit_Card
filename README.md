@@ -5,7 +5,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
 
 ######
-Dainty Cadet – Carte de Visite Interactive
+Dainty Cadet – Carte de Visite Interactive : https://daintysvisitcard.netlify.app/
 
 Bienvenue sur la carte de visite numérique de Dainty Cadet, développeur indépendant.
 Ce projet est une mini application Vue 3 + Vite conçue spécialement pour l’événement Ledger OP3N 2025 – Paris, afin de présenter mon profil, mon CV et mes projets de manière moderne et interactive.

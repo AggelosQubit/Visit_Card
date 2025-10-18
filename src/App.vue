@@ -2,6 +2,7 @@
 	<div class="card-container">
 		<h1 class="name">Dainty CADET</h1>
 		<h2 class="subtitle">Développeur Indépendant<br />Carte de visite</h2>
+		<a class="subtitle bland" href="/Dainty_Cadet.vcf" download="Dainty_Cadet.vcf">📇 Contacts</a>
 
 		<div class="qrs">
 			<div class="qr-block" v-for="(link, index) in links" :key="index">
@@ -49,6 +50,10 @@ body {
 	justify-content: center;
 	align-items: center;
 }
+.bland{
+	color: #706f6f;
+	text-decoration: none;
+}
 
 .name {
 	font-size: 7rem;
@@ -59,7 +64,7 @@ body {
 }
 .subtitle {
 	font-size: 1.3rem;
-	margin-bottom: 7rem;
+	margin-bottom: 4rem;
 	opacity: 0.8;
 }
 .subtitle:hover {
