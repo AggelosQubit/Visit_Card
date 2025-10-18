@@ -62,7 +62,9 @@ body {
 	margin-bottom: 7rem;
 	opacity: 0.8;
 }
-
+.subtitle:hover {
+	transform: scale(1.07);
+}
 .qrs {
 	display: flex;
 	gap: 8rem;
