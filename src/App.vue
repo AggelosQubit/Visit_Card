@@ -19,17 +19,17 @@ const links = [
 {
     label: "LinkedIn",
     url: "https://www.linkedin.com/in/dainty-c-12033415a/",
-    qr: "/public/img/linkedin.png",
+    qr: "/img/linkedin.png",
 },
 {
     label: "Curriculum Vitae",
     url: "https://scanned.page/p/Zs19H8",
-    qr: "/public/img/CV.png",
+    qr: "/img/CV.png",
 },
 {
     label: "GitHub : AggelosQubit",
     url: "https://github.com/AggelosQubit",
-    qr: "/public/img/github.png",
+    qr: "/img/github.png",
 },
 ];
 </script>
