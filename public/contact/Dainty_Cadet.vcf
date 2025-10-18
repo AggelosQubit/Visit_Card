@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Dainty Cadet
+N:Cadet;Dainty;;;
+TITLE:Développeur Indépendant - Node.js & JavaScript
+TEL;TYPE=CELL:+33695576710
+EMAIL:dainty.cadet@example.com
+URL:https://daintysvisitcard.netlify.app/
+URL:https://www.linkedin.com/in/dainty-c-12033415a/
+URL:https://github.com/AggelosQubit
+ADR;TYPE=HOME:;;Paris;;;;
+NOTE:Développeur indépendant spécialisé en backend Node.js, JavaScript et création d’outils sur mesure.
+END:VCARD

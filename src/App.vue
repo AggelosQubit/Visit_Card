@@ -2,7 +2,7 @@
 	<div class="card-container">
 		<h1 class="name">Dainty CADET</h1>
 		<h2 class="subtitle">Développeur Indépendant<br />Carte de visite</h2>
-		<a class="subtitle bland" href="/Dainty_Cadet.vcf" download="Dainty_Cadet.vcf">📇 Contacts</a>
+		<a class="subtitle bland" href="/contact/Dainty_Cadet.vcf" download="Dainty_Cadet.vcf">📇 Contacts</a>
 
 		<div class="qrs">
 			<div class="qr-block" v-for="(link, index) in links" :key="index">
