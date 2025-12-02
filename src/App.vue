@@ -35,9 +35,8 @@
 						<p><b>Adresse :</b> 11 Rue Henri Rol-Tanguy, 77500 Chelles, France</p>
 						<p><b>Courriel :</b> aggelosQubit@gmail.com</p>
 						<p><b>Hébergeur :</b> Netlify</p>
-						<p><b>Activité principale :</b> Livraison de repas à domicile via plateformes (Uber Eats, Deliveroo, etc.)</p>
-						<p><b>Activités complémentaires #1 (Soon principale):</b> Développement web, création numérique et conception d’outils logiciels.</p>
-						<p><b>Activités complémentaires #2:</b> Vente à distance – Exploitation de boutique E-commerce, vente de produits non réglementés sur internet</p>
+						<p><b>Activités principale (Soon principale):</b> Développement web, création numérique et conception d’outils logiciels.</p>
+						<p><b>Activités complémentaires #1:</b> Vente à distance – Exploitation de boutique E-commerce, vente de produits non réglementés sur internet</p>
 						<p><b>Propriété intellectuelle :</b> L’ensemble du contenu (textes, visuels, design) de Kairos AggelosQubit Lab est protégé par le Code de la propriété intellectuelle.</p>
 						<p><b>Données personnelles :</b> Aucune donnée personnelle n’est collectée directement sur ce site.</p>
 						<p><b>Responsabilité :</b> L’éditeur ne saurait être tenu responsable du contenu des sites externes accessibles via les QR codes.</p>
