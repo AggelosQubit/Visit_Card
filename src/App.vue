@@ -5,7 +5,6 @@
 		<h3 class="subtitle">Dainty CADET</h3>
 		<h3 class="subtitle">Développeur Indépendant<br/>Carte de visite</h3>
 		
-
 		<div class="qrs">
 			<div class="qr-block" v-for="(link, index) in links" :key="index">
 				<a :href="link.url" target="_blank" rel="noopener noreferrer">
