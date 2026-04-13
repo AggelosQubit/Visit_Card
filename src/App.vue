@@ -31,7 +31,6 @@
 						<p><b>Nom :</b> Dainty CADET</p>
 						<p><b>Statut :</b> Entrepreneur individuel – Micro-entreprise</p>
 						<p><b>SIREN :</b> 899 742 241</p>
-						<p><b>Adresse :</b> 11 Rue Henri Rol-Tanguy, 77500 Chelles, France</p>
 						<p><b>Courriel :</b> aggelosQubit@gmail.com</p>
 						<p><b>Hébergeur :</b> Netlify</p>
 						<p><b>Activités principale (Soon principale):</b> Développement web, création numérique et conception d’outils logiciels.</p>
