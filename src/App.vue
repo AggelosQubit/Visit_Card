@@ -1,6 +1,6 @@
 <template>
 	<div class="card-container">
-		<h1 class="name">Kairos AggelosQubit Lab </h1>
+		<h1 class="name">FazeRo El </h1>
 
 		<h3 class="subtitle">Dainty CADET</h3>
 		<h3 class="subtitle">Développeur Indépendant<br/>Carte de visite</h3>
@@ -27,8 +27,7 @@
 				<div class="card" >
 					<div>
 						<h2 style="text-align:center; color:#ff6;">Mentions légales</h2>
-						<p><b>Nom commercial :</b> Kairos AggelosQubit Lab</p>
-						<p><b>Nom :</b> Dainty CADET</p>
+						<p><b>Nom commercial :</b> FazeRo El</p>
 						<p><b>Statut :</b> Entrepreneur individuel – Micro-entreprise</p>
 						<p><b>SIREN :</b> 899 742 241</p>
 						<p><b>Courriel :</b> aggelosQubit@gmail.com</p>
