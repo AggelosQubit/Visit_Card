@@ -27,7 +27,7 @@
 				<div class="card" >
 					<div>
 						<h2 style="text-align:center; color:#ff6;">Mentions légales</h2>
-						<p><b>Nom commercial :</b> FazeRo El</p>
+						<p><b>Nom commercial :</b> FazeRo El (Soon Registered)</p>
 						<p><b>Statut :</b> Entrepreneur individuel – Micro-entreprise</p>
 						<p><b>SIREN :</b> 899 742 241</p>
 						<p><b>Courriel :</b> aggelosQubit@gmail.com</p>
