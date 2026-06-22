@@ -63,7 +63,7 @@ function toggleModal() {
 }
 	const links = [
 		{label: "LinkedIn",url: "https://www.linkedin.com/in/dainty-c-12033415a/",qr: "/img/linkedin.png",},
-		{label: "Curriculum Vitae",url: "/Dainty_CADET_CV_FR.pdf",qr: "/img/aggelosQubit.webp",},
+		{label: "Curriculum Vitae",url: "/Dainty_CADET_CV_FR1.pdf",qr: "/img/aggelosQubit.webp",},
 		{label: "GitHub : AggelosQubit",url: "https://github.com/AggelosQubit",qr: "/img/github.png",},
 	];
 
