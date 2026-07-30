@@ -27,14 +27,16 @@
 				<div class="card" >
 					<div>
 						<h2 style="text-align:center; color:#ff6;">Mentions légales</h2>
-						<p><b>Nom commercial :</b> FazeRo El (Soon Registered)</p>
+						<p><b>Nom commercial :</b> FazeRo El (Active 🟢 )</p>
 						<p><b>Statut :</b> Entrepreneur individuel – Micro-entreprise</p>
 						<p><b>SIREN :</b> 899 742 241</p>
+                        <p><b>SIRET (siège) :</b> 89974224100032</p>
+                        <p><b>Numéro RCS :</b> 899 742 241 R.C.S. Meaux</p>
 						<p><b>Courriel :</b> aggelosQubit@gmail.com</p>
 						<p><b>Hébergeur :</b> Netlify</p>
-						<p><b>Activités principale (Soon principale):</b> Développement web, création numérique et conception d’outils logiciels.</p>
-						<p><b>Activités complémentaires #1:</b> Vente à distance – Exploitation de boutique E-commerce, vente de produits non réglementés sur internet</p>
-						<p><b>Propriété intellectuelle :</b> L’ensemble du contenu (textes, visuels, design) de Kairos AggelosQubit Lab est protégé par le Code de la propriété intellectuelle.</p>
+						<p><b>Activités principale:</b> Livraison de repas à domicile au vélo</p>
+						<p><b>Activités complémentaires:</b> Conception, développement et maintenance de sites internet, applications et outils numériques. Prestations de services informatiques, création de solutions logicielles, intégration Web, gestion de projets digitaux, automatisation et accompagnement technique des entreprises. Exploitation de boutique, E-commerces, vente de produit non réglementes sur internet. Création, production et diffusion de contenus numériques et audiovisuels sur internet, notamment en direct (streaming) et en vidéo.</p>
+						<p><b>Propriété intellectuelle :</b> L’ensemble du contenu (textes, visuels, design) de FazeRo El est protégé par le Code de la propriété intellectuelle.</p>
 						<p><b>Données personnelles :</b> Aucune donnée personnelle n’est collectée directement sur ce site.</p>
 						<p><b>Responsabilité :</b> L’éditeur ne saurait être tenu responsable du contenu des sites externes accessibles via les QR codes.</p>
 						<div style="text-align:center; margin-top:1rem;">
