@@ -51,6 +51,17 @@
 		</div>
 	</div>
 	
+    <div class="card-container">
+        <h2 class="name">Portfolio</h2> 
+        <div class="qrs">
+                <div class="qr-block" v-for="(webSite, index) in webSites" :key="index">
+                    <a :href="webSite.url" target="_blank" rel="noopener noreferrer">
+                        <img :src="webSite.qr" :alt="webSite.label" class="qr-img" />
+                    </a>
+                    <p>{{ webSite.label }}</p>
+                </div>
+            </div>
+    </div>
 </template>
 
 <script setup>
@@ -68,13 +79,16 @@ function toggleModal() {
 		{label: "Curriculum Vitae",url: "/Dainty_CADET_CV_FR.pdf",qr: "/img/aggelosQubit.webp",},
 		{label: "GitHub : AggelosQubit",url: "https://github.com/AggelosQubit",qr: "/img/github.png",},
 	];
+    
+    const webSites = [
+		{label: "Kei.Roumanie",url: "https://keiroumanie.com/",qr: "/img/portfolio/kei.roumanie.jpg",},
+		{label: "French Defence Atlas",url: "https://frenchdefenceatlas.netlify.app/",qr: "/img/portfolio/fda.png",},
+	];
 
 </script>
 
 <style >
-body {
-	margin: 0px;
-}
+
 .card{
 	display: flex;
 	background: #262a38;
@@ -126,10 +140,10 @@ body {
 }
 .card-container {
 	min-height: 100vh;
-	background: linear-gradient(135deg, #041350, #ffffff, #e71010);
+	
 	color: #706f6f;
 	text-align: center;
-	font-family: 'Orbitron', sans-serif;
+	
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
